@@ -2,7 +2,7 @@
 ! Title: AstuteSensei's Spotify Ads DNS Blocklist
 ! Description: Blocks annoying and malicious pop-up ads.
 ! Syntax: AdBlock
-! Number of entries: 32
+! Number of entries: 3797
 !
 
 0.0.0.0 a.admob.com
